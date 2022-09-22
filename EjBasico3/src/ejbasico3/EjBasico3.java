@@ -12,7 +12,7 @@ public class EjBasico3 {
 		//Usamos el scanner para dar valor a la variable "añoa" (año actual)
 		int añoa = sc.nextInt();
 		//Pedimos al usuario que inserte su año de nacimiento
-		System.out.print("En que año nacistes? ");
+		System.out.print("En que año usted nacio? ");
 		//Usamos el scanner para dar valor a la variable "añon" (año nacimiento)
 		int añon = sc.nextInt();
 		//Damos valor a la variable "añot" (año total)
