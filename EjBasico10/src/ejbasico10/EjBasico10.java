@@ -8,7 +8,7 @@ public class EjBasico10 {
 		//Creamos el Scanner
 		Scanner sc = new Scanner(System.in);
 		//Damos valor a la variable IVA
-		double IVA = 0.21;
+		final double IVA = 0.21;
 		//Pedimos al usuario que inserte el precio del producto
 		System.out.print("Indique el precio del producto: ");
 		//Usamos el scanner para dar valor a la variable "precio"
