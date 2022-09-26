@@ -7,7 +7,7 @@ public class Exercise5 {
 		double lenght, height;
 		System.out.print("Inserte un valor para la longitud: ");
 		lenght = sc.nextDouble();
-		System.out.print("Inserte un valor para la anchura: ");
+		System.out.print("Inserte un valor para la altura: ");
 		height = sc.nextDouble();
 		double perimeter = 2*lenght+2*height;
 		double area = lenght*height;
