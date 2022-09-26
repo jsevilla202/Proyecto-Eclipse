@@ -8,7 +8,7 @@ public class Exercise1 {
 		//No se importó el scanner
 		Scanner keyboard = new Scanner(System.in);
 		//YEAR no está definido
-		int YEAR = 2022;
+		final int YEAR = 2022;
 		int age, bornIn;
 		//Faltan las comillas
 		System.out.print("How old are you this year? ");
